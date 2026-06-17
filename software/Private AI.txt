@@ -1,0 +1,25 @@
+Private-AI
+
+Members, by themselves, may not always have the time, expertise, or perspective required to identify the highest-satisfaction solutions to complex problems.
+
+To assist with this process, each Member has access to a [Private AI](private-ai.md).
+
+The Private AI acts as an advisor to the Member. It can:
+
+* explain proposals,
+* identify trade-offs,
+* suggest revisions,
+* highlight hidden assumptions,
+* and help the Member understand how a proposal aligns with their own goals and priorities.
+
+The Private AI does not vote, make decisions, or represent the Member. Its purpose is to help the Member participate more effectively in the deliberative process.
+
+
+Related Documents
+
+* [README](/README.md)
+* [Decision Making](decisionmaking.md)
+* [AI-Assisted Decision Support](software/ai-assisted.md)
+* [Commons Allocation Index](cai.md)
+* [Deliberative Democracy](deliberative-democracy.md)
+* [Blockchain Governance](blockchain-governance.md)
