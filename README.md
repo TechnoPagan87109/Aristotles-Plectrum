@@ -215,6 +215,7 @@ Many resources are expensive when duplicated but efficient when shared.
 The Community uses shared infrastructure where practical, including:
 
 * workshops,
+* guestrooms,
 * production equipment,
 * energy systems,
 * communications systems,
