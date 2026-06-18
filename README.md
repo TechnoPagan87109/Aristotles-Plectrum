@@ -1,5 +1,5 @@
 Lately, more and more people are asking:  
-**“What happens when automation takes more than half the jobs?”**
+**“What happens when automation has taken more than half the jobs?”**
 
 For a while now my short, easy answer has been:  
 **“Own robots and push it to 90–95%.”**
