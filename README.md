@@ -10,7 +10,7 @@ What follows, is the long answer
 
 # WHAT?
 
-This project aims to develop a comprehensive blueprint for—and document the construction of—an [Open Source](hardware/opensource.md), replicable [ecovillage](hardware/ecovillage.md) The community is [Governed](community/governance.md), by an [AI-assist](software/ai-assist.md) supported, [deliberative direct democratic](community/deliberative-democracy.md) and is designed to support an [emulation of post-scarcity](community/nearpostscarcity.md) conditions.
+This project aims to develop a comprehensive blueprint for—and document the construction of—an [Open Source](hardware/opensource.md), replicable [ecovillage](hardware/ecovillage.md) The community is [Governed](../community/governance.md), by an [AI-assist](software/ai-assist.md) supported, [deliberative direct democratic](../community/deliberative-democracy.md) and is designed to support an [emulation of post-scarcity](community/nearpostscarcity.md) conditions.
 
 At a high level, this requires solving three interconnected problems:
 - how we build and sustain the physical systems we depend on,
