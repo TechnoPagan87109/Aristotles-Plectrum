@@ -243,8 +243,6 @@ Instead, it is treated as a tool that allows Members to spend more time on:
 
 The Community seeks to automate as much routine work as practical while preserving meaningful human control. You and your neighbors can own the automation that had been coming for your livelihood.
 
-See: [AI-Assisted](software/ai-assisted.md)
-
 ---
 
 ## Resource Coordination
