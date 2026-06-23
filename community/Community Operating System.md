@@ -1,6 +1,8 @@
 # Community Operating System (COS) 
 
-## Definition This is the (badly named) digital infrastructure that enables the Community to:
+## Definition:
+ 
+This is the (badly named) digital infrastructure that enables the Community to:
  - coordinate governance, 
  - resource management, 
  - communication, 
@@ -29,6 +31,7 @@ It connects systems such as:
 ## Side Notes
 - The COS should coordinate human intent, permissions, schedules, and resource priorities, while [ROS](/software/ros.md)-compatible systems execute physical or device-level tasks through standardized machine interfaces.
 - The COS can be begun first and will aid in the rest of the Community
+
 ## Key Principles
 
 - Transparency 
