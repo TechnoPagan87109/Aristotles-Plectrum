@@ -73,6 +73,25 @@ The purpose of this review is not to approve or reject proposals, but to identif
 
 ---
 
+## Community Deliberation
+
+Members review proposals through the subsystems of the Community Operating System.
+
+Members may:
+
+* discuss proposals,
+* ask questions,
+* identify concerns,
+* propose alternatives,
+* and suggest revisions.
+
+The goal of deliberation is not debate for its own sake.
+
+The goal is to improve understanding and improve the quality of the proposal.
+
+
+---
+
 ## AI-Assisted Analysis
 
 AI-assisted tools may be used to help Members evaluate proposals.
@@ -89,24 +108,6 @@ These tools may:
 These analyses are not predictions of the future.
 
 Their purpose is to help Members better understand the proposal and its possible effects.
-
----
-
-## Community Deliberation
-
-Members review proposals through the subsystems of the Community Operating System.
-
-Members may:
-
-* discuss proposals,
-* ask questions,
-* identify concerns,
-* propose alternatives,
-* and suggest revisions.
-
-The goal of deliberation is not debate for its own sake.
-
-The goal is to improve understanding and improve the quality of the proposal.
 
 ---
 
