@@ -26,6 +26,9 @@ It connects systems such as:
 - waste 
 - production equipment 
 
+## Side Notes
+- The COS should coordinate human intent, permissions, schedules, and resource priorities, while [ROS](/software/ros.md)-compatible systems execute physical or device-level tasks through standardized machine interfaces.
+- The COS can be begun first and will aid in the rest of the Community
 ## Key Principles
 
 - Transparency 
