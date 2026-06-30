@@ -269,7 +269,7 @@ Shared resources are not treated as unlimited. Resource usage, maintenance requi
 
 For example:
 
-* Production equipment may use reservation and scheduling systems.
+* [Production equipment](..hardware/productionequipment.md may use reservation and scheduling systems.
 * Shared land may have usage agreements and maintenance responsibilities.
 * Energy and water systems may have allocation mechanisms during periods of scarcity.
 * Community vehicles may have scheduling, maintenance, and usage tracking.
